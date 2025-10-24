@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Security App"
+        android:textColor="#FF0000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:id="@+id/tvDeviceInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Device ID: Loading..."
+        android:textColor="#CCCCCC"
+        android:textSize="12sp"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:id="@+id/tvInstruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhấn nút để kích hoạt khóa toàn màn hình"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:layout_marginBottom="30dp" />
+
+    <EditText
+        android:id="@+id/etKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập key..."
+        android:textColor="#FFFFFF"
+        android:textColorHint="#AAAAAA"
+        android:backgroundTint="#FF0000"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:layout_marginBottom="20dp" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KÍCH HOẠT KHÓA"
+        android:textColor="#FFFFFF"
+        android:background="#FF0000"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp" />
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trạng thái: Chưa khóa"
+        android:textColor="#00FF00"
+        android:textSize="14sp"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>
