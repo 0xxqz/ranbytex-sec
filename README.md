@@ -1,4 +1,4 @@
-# ranbytex-sec
+# ranbytex-sec - full source dms to telegram: @zeroxxqz - t.me/zeroxxqz - @nullbytesvn - t.me/nullbytesvn
 # 🔒 Security Lock App - Ultimate Device Protection
 
 <div align="center">
