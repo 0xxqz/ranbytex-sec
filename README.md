@@ -29,22 +29,6 @@
 | **Intuitive Interface** | Easy-to-use lock/unlock workflow | ✅ Implemented |
 | **Real-time Status** | Clear device and lock status display | ✅ Implemented |
 
----
-
-## 📸 **App Screenshots**
-
-<div align="center">
-
-### 🏠 **Main Screen**
-![Main Screen](https://via.placeholder.com/300x600/1a1a1a/ffffff?text=Security+Lock+App)
-
-### 🔐 **Lock Screen**
-![Lock Screen](https://via.placeholder.com/300x600/2d1b69/ffffff?text=Device+Locked)
-
-### ✅ **Unlock Success**
-![Unlock Screen](https://via.placeholder.com/300x600/1b5e20/ffffff?text=Unlock+Success)
-
-</div>
 
 ---
 
