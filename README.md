@@ -243,25 +243,3 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-## 🎊 **Ready to Secure Your Device?**
-
-**Get started now and experience ultimate Android protection!**
-
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/yourusername/security-lock-app/releases/latest)
-[![Get on Google Play](https://img.shields.io/badge/Google_Play-Get_App-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.security.lock)
-
-**⭐ Don't forget to star this repository if you find it useful!**
-
-</div>
-
----
-
-<div align="center">
-
-**Built with ❤️ using Kotlin and Android Jetpack**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack](https://img.shields.io/badge/Jetpack-430098?style=flat&logo=jetpack-compose&logoColor=white)
-
-</div>
