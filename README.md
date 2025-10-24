@@ -235,15 +235,9 @@ copies or substantial portions of the Software.
 - 🔧 [Developer Guide](docs/DEVELOPER_GUIDE.md)
 - 🐛 [Troubleshooting](docs/TROUBLESHOOTING.md)
 
-### **Community**
-- 💬 [Discussions](https://github.com/yourusername/security-lock-app/discussions)
-- 🐛 [Issue Tracker](https://github.com/yourusername/security-lock-app/issues)
-- 📢 [Releases](https://github.com/yourusername/security-lock-app/releases)
-
 ### **Contact**
-- **Email**: security-lock-support@example.com
-- **Twitter**: [@SecurityLockApp](https://twitter.com/SecurityLockApp)
-- **Website**: [https://security-lock-app.com](https://security-lock-app.com)
+- **Channel**: [@SecurityLockApp](t.me/nullbytesvn)
+- **Telegram**: [https://security-lock-app.com](t.me/zeoxxqz)
 
 ---
 
